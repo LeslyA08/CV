@@ -1,5 +1,7 @@
+/***********************Tag Selectors********************/
 body {
    background-color: #FDF6F0;
+   color: #f3bb9b
 }
   hr {
     border-color: #FCD8D4;
@@ -31,3 +33,12 @@ body {
   th{
     color: #f3bb9b
   }
+  label {
+    color: #f3bb9b
+  }
+  ol {
+    Color: #f3bb9b
+  }
+  /*********************Class Selectors**********************/
+
+    /*********************ID Selectors**********************/
